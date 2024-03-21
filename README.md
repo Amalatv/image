@@ -2,13 +2,7 @@
 
 This is a simple image gallery project created using HTML and CSS. It showcases a collection of images in a visually appealing layout.
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Contributing](#contributing)
-- [License](#license)
+## screen short
 
 ## Demo
 You can view the live demo of the project [here](https://amalatv.github.io/image/).
