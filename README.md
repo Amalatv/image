@@ -5,7 +5,8 @@ This is a simple image gallery project created using HTML and CSS. It showcases 
 ## screenshot
 
 
-|--------|
+|             |
+---------------
 | <img src="">|
 ## Demo
 You can view the live demo of the project [here](https://amalatv.github.io/image/).
