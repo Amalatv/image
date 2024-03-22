@@ -4,6 +4,11 @@ This is a simple image gallery project created using HTML and CSS. It showcases 
 
 ## screenshot
 
+| Screenshots |
+|-------------|
+|<img src="https://github.com/Amalatv/image/blob/main/image/screencapture-amalatv-github-io-image-2024-03-21-16_53_23.png">|
+|             |
+
 ## Demo
 You can view the live demo of the project [here](https://amalatv.github.io/image/).
 
